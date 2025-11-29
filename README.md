@@ -21,6 +21,4 @@ It supports basic arithmetic operations and includes a clean, modern UI with key
 - **Java Swing**
 - **OOP Concepts**
 
----
 
-## 📂 Project Structure
